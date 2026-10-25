@@ -1,17 +1,17 @@
-# Compiled Java files
+# Java build output
 *.class
-
-# Build output
+/out/
 /build/
 /dist/
-/out/
 /target/
+/nbbuild/
+/nbdist/
 
-# Local IDE settings
-.idea/workspace.xml
-.idea/shelf/
-nbproject/private/
+# IDE and local settings
+.idea/
+*.iml
 .vscode/
+nbproject/private/
 
 # Logs and OS files
 *.log
