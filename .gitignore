@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+
+# Build output
+/build/
+/dist/
+/out/
+/target/
+
+# Local IDE settings
+.idea/workspace.xml
+.idea/shelf/
+nbproject/private/
+.vscode/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
